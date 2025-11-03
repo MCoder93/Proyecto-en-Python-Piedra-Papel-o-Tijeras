@@ -1,3 +1,4 @@
+#🐺 Proyecto en Python
 
 import random
 
@@ -48,4 +49,5 @@ while True:
         break
 
 print('Fin de la partida, Adios!')
+
 
